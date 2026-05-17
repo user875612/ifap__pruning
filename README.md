@@ -1,4 +1,4 @@
-# Flow-Guided Neural Pruning: A Continuum Dynamics Framework for Architecture-Agnostic Model Compression
+# Flow-Guided Neural Pruning: Continuum Dynamics Framework for Architecture-Agnostic Model Compression
 
 **This codebase provides the implementation supporting our paper, "Flow-Guided Neural Pruning: Continuum Dynamics Framework for Architecture-Agnostic Model Compression" submitted to Machine Learning and Knowledge Extraction.**
 
